@@ -1,0 +1,7 @@
+inicio 
+defina var3 como modelo;
+var3 := Mo;
+defina var4 como modelo;
+var4 := Mg;
+graficar3d(var4);
+fin

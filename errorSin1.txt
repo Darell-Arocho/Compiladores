@@ -1,0 +1,4 @@
+inicio 
+defina var1 como modelo;;
+var1 := Zn;;
+fin

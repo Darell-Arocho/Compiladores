@@ -1,0 +1,5 @@
+inicio 
+defina var2 como modelo;
+var2 := Li;
+graficar2d(var2);
+fin

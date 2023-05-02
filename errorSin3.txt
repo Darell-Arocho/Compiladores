@@ -1,0 +1,4 @@
+inicio 
+defina var3 como modelo;
+inicio graficar3d(var3)-;
+fin
